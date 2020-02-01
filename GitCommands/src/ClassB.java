@@ -7,6 +7,7 @@ public class ClassB {
 		System.out.println("in class B");
 		System.out.println("added line 1");
 		System.out.println("added line 2");
+		System.out.println("added line 4");
 		System.out.println("added line 3");
 
 	}
