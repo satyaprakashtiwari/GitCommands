@@ -1,8 +1,8 @@
-class ClassD{
+class ClassD {
 
-public void m(){
- 
- int a=10;
-}
+	public void m() {
+
+		int a = 10;
+	}
 
 }
